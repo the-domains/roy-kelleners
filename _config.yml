@@ -1,7 +1,7 @@
 name: Roy Kelleners
 favicon: null
-layout_spectrum: 0.61446
-typography_spectrum: 0.58607
+layout_spectrum: 0
+typography_spectrum: 0.4714
 collections:
   - index:
       path: /
@@ -34,8 +34,8 @@ color:
     - '#ffffff'
     - '#ababab'
     - '#f18220'
-  brandStrength: 0.25
-  lightness: 0.698711
-  saturation: 0.3195489
-  rhythmicContrast: 0.7137486
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
