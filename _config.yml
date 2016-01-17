@@ -1,41 +1,41 @@
-title: Roy Kelleners
-purpose: []
+typography_spectrum: 0.4774436
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.7653061
+title: Roy Kelleners
+purpose: []
 color:
   saturation: 0.3195489
-  lightness: 0.698711
   brandStrength: 0.2604726
+  rhythmicContrast: 0.7137486
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  rhythmicContrast: 0.7137486
+  lightness: 0.698711
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Roy Kelleners
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4774436
-layout_spectrum: 0.7653061
