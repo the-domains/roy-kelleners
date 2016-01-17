@@ -4,11 +4,18 @@
         <description><![CDATA[Roy Kelleners]]></description>
         <link>https://thegrid.ai/roy-kelleners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 11:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 11:21:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roy-kelleners/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.roykelleners.com/images/banners/websiteBanner.jpg">]]></description>
+            <link>https://thegrid.ai/roy-kelleners/8ac839ce-802f-433e-921b-6732feb80fc0/index.html</link>
+            <guid isPermaLink="false">8ac839ce-802f-433e-921b-6732feb80fc0</guid>
+            <pubDate>Sun, 17 Jan 2016 11:21:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First Real Page]]></title>
-            <description><![CDATA[<h1>First Real Page</h1>]]></description>
+            <description><![CDATA[<article><h1>First Real Page</h1><p>So here is the text that I wrote for the first real page. It is just to try and see what happens. My cat just walked over to me and said: "Hi!"</p></article>]]></description>
             <link>https://thegrid.ai/roy-kelleners/first-real-page/index.html</link>
             <guid isPermaLink="false">74952c0c-3667-4626-83af-62b203ee8620</guid>
             <pubDate>Sun, 17 Jan 2016 11:06:36 GMT</pubDate>
