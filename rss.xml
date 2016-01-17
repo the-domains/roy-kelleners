@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Roy Kelleners]]></title>
+        <description><![CDATA[Roy Kelleners]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jan 2016 11:43:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>I am a game and software developer with a BA degree in Visual and Game Programming from the Art Institute of Phoenix. I also have a degree in Electro-Engineering from Gilde Opleidingen in the Netherlands but my passion for programming and gaming goes back much further than my college experience. For over 10 years I have been programming in one form or another and for over 20 years I have been playing video games. To me that is an ideal marriage of problem solving and fun! Using my development knowledge, curiosity and dedication I hope to add my own innovative touch to the world of video games.</p></article>]]></description>
+            <link>undefinedabout-me/index.html</link>
+            <guid isPermaLink="false">9d1d54f5-92af-485d-b6c7-0d706975ebf9</guid>
+            <pubDate>Sun, 17 Jan 2016 11:43:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
