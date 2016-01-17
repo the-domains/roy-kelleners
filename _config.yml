@@ -1,4 +1,4 @@
-typography_spectrum: 0.4774436
+name: Roy Kelleners
 opengraph:
   image: null
   type: null
@@ -9,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 layout_spectrum: 0.7653061
 title: Roy Kelleners
 purpose: []
@@ -34,8 +34,8 @@ cta:
   version: null
   domain: null
 favicon: null
+typography_spectrum: 0.4774436
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Roy Kelleners
