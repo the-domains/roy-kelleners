@@ -1,6 +1,6 @@
 name: Roy Kelleners
 favicon: null
-layout_spectrum: 0.19674
+layout_spectrum: 0
 typography_spectrum: 0
 title: Roy Kelleners
 collections:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#002b55'
-    - '#c1c2c6'
-    - '#eff6fe'
-    - '#7991a9'
-    - '#1c476c'
+    - '#c9c9c9'
+    - '#aacd4b'
+    - '#52adda'
+    - '#ffffff'
+    - '#d0e794'
   brandStrength: 0.25
   lightness: 0.5
   saturation: 0.5
