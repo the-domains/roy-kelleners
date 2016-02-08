@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Roy Kelleners]]></title>
         <description><![CDATA[Roy Kelleners]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roy-kelleners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 17:53:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 17:54:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roy-kelleners/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why did the Java programmer wear glasses?</p>]]></description>
+            <link>https://thegrid.ai/roy-kelleners/7a5bda68-42b1-4a0d-8bca-4faf06bbdf06/index.html</link>
+            <guid isPermaLink="false">7a5bda68-42b1-4a0d-8bca-4faf06bbdf06</guid>
+            <pubDate>Mon, 08 Feb 2016 17:53:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The best thing about a boolean is even if you are wrong, you are only off by a bit.</p>]]></description>
-            <link>undefinede4cdebd8-5121-4132-8e98-0aff9465614c/index.html</link>
+            <link>https://thegrid.ai/roy-kelleners/e4cdebd8-5121-4132-8e98-0aff9465614c/index.html</link>
             <guid isPermaLink="false">e4cdebd8-5121-4132-8e98-0aff9465614c</guid>
             <pubDate>Mon, 08 Feb 2016 17:53:48 GMT</pubDate>
         </item>
