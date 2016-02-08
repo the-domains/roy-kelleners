@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Roy Kelleners]]></title>
         <description><![CDATA[Roy Kelleners]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roy-kelleners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 16:51:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 17:12:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roy-kelleners/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Weird! There is a page here that I deleted!</p>]]></description>
+            <link>https://thegrid.ai/roy-kelleners/9ccc6467-db98-4f88-9e83-3f9ad57a7478/index.html</link>
+            <guid isPermaLink="false">9ccc6467-db98-4f88-9e83-3f9ad57a7478</guid>
+            <pubDate>Mon, 08 Feb 2016 17:10:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is just a title text test.</p>]]></description>
-            <link>undefinedbb4daa48-e2fb-4658-a381-894d1a944ba9/index.html</link>
+            <link>https://thegrid.ai/roy-kelleners/bb4daa48-e2fb-4658-a381-894d1a944ba9/index.html</link>
             <guid isPermaLink="false">bb4daa48-e2fb-4658-a381-894d1a944ba9</guid>
             <pubDate>Mon, 08 Feb 2016 16:51:48 GMT</pubDate>
         </item>
