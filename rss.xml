@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Roy Kelleners]]></title>
+        <description><![CDATA[Roy Kelleners]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 16:51:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is just a title text test.</p>]]></description>
+            <link>undefinedbb4daa48-e2fb-4658-a381-894d1a944ba9/index.html</link>
+            <guid isPermaLink="false">bb4daa48-e2fb-4658-a381-894d1a944ba9</guid>
+            <pubDate>Mon, 08 Feb 2016 16:51:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
