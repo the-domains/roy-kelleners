@@ -2,22 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-08T16:49:34.499Z'
-dateModified: '2016-02-08T16:49:24.032Z'
+datePublished: '2016-02-08T16:52:03.877Z'
+dateModified: '2016-02-08T16:50:35.095Z'
 title: Another Page
 author: []
+sourcePath: _posts/2016-02-08-another-page.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-another-page.md
-published: true
 _type: Blurb
 
 ---
