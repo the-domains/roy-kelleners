@@ -4,8 +4,15 @@
         <description><![CDATA[Roy Kelleners]]></description>
         <link>https://thegrid.ai/roy-kelleners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 17:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 17:54:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roy-kelleners/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.</p>]]></description>
+            <link>https://thegrid.ai/roy-kelleners/76d15260-2bbd-44e3-9242-41f19aa168a3/index.html</link>
+            <guid isPermaLink="false">76d15260-2bbd-44e3-9242-41f19aa168a3</guid>
+            <pubDate>Mon, 08 Feb 2016 17:53:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Why did the Java programmer wear glasses?</p>]]></description>
